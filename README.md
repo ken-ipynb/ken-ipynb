@@ -1,60 +1,47 @@
-👋 Hi, I'm Pradeep Pandey
+# Hi, I'm Pradeep Pandey
 
-I’m an AI/ML student and aspiring data analyst, focused on building a strong understanding of machine learning and applying it to solve real-world problems.
+I'm a Computer Applications student passionate about AI, Machine Learning, and Data Analytics.
 
-I enjoy exploring concepts deeply, experimenting with models, and continuously improving my skills through hands-on learning and projects.
+## About Me
 
----
+I'm learning to build practical solutions using data and machine learning. I enjoy working on real-world projects and continuously improving my skills through hands-on experience.
 
-🚀 What I’m Doing Now
+**Resume:** [Download Here](https://github.com/ken-ipynb/resume)
 
-* Diving deep into Artificial Intelligence & Machine Learning
-* Learning and implementing ML models step by step
-* Strengthening my understanding of data analysis and problem-solving
-* Practicing with real-world datasets
+## Skills
 
----
+**Languages:** Python, C, PHP
 
- 🛠️ Skills
+**Tools:** Power BI, Tableau, Excel, Jupyter Notebook
 
-**Languages**
+**Libraries:** NumPy, Pandas, Scikit-learn, Seaborn
 
-* Python
-* C
-* PHP
+**Databases:** SQL, NoSQL
 
-**Tools & Technologies**
+## Projects
 
-* Power BI
-* Excel
-* Tableau
-* Jupyter Notebook
-* Git & GitHub
+- [Power BI Dashboard Projects](https://github.com/ken-ipynb/powerbi-dashboard-projects) - Data analysis and visualization dashboards
+- [Certifications & Achievements](https://github.com/ken-ipynb/certifications-and-achievements) - My learning journey and certifications
 
----
+## What I'm Working On
 
-📊 Projects
+- Machine Learning and AI concepts
+- Data analysis with real datasets
+- Building practical projects
+- Improving my problem-solving skills
 
-* Data Analysis projects using **Power BI, Excel, and Tableau**
-* Worked on **sales and various datasets** to extract insights and visualize data
+## Certifications
 
----
+- Deloitte Virtual Experience Program (Data Analytics)
+- AI & Machine Learning Workshop - Tryst 2025 (IIT Delhi)
+- Smart India Hackathon 2025 - Participant
+- Internal College Hackathon - 2nd Prize
 
-🎯 Goals
+## Connect With Me
 
-* Build strong foundations in AI & Machine Learning
-* Develop real-world projects that solve practical problems
-* Create models that can help improve decision-making and impact lives
-* Grow into a skilled professional in the data/ML field
+- **Email:** 61005.pradeep.pandey@gmail.com
+- **LinkedIn:** [linkedin.com/in/pradeep-pandey-62a582325](https://linkedin.com/in/pradeep-pandey-62a582325)
+- **GitHub:** [github.com/ken-ipynb](https://github.com/ken-ipynb)
+- **Phone:** +91 8860449995
 
----
-
-🤝 Connect With Me
-
-* LinkedIn: [https://www.linkedin.com/in/pradeep-pandey-62a582325/]
-* GitHub:[https://github.com/ken-ipynb]
-* InstaGram : [https://www.instagram.com/prxdeepp.here/]
-
----
-
-
+Open to internships and collaboration opportunities.

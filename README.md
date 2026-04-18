@@ -42,6 +42,6 @@ I'm learning to build practical solutions using data and machine learning. I enj
 - **Email:** 61005.pradeep.pandey@gmail.com
 - **LinkedIn:** [linkedin.com/in/pradeep-pandey-62a582325](https://linkedin.com/in/pradeep-pandey-62a582325)
 - **GitHub:** [github.com/ken-ipynb](https://github.com/ken-ipynb)
-- **Phone:** +91 8860449995
+
 
 Open to internships and collaboration opportunities.

@@ -1,48 +1,58 @@
 # Hi, I'm Pradeep Pandey 👋
 
-**Aspiring Machine Learning Engineer** | AI • Deep Learning • Data Analytics
+**Aspiring Machine Learning Engineer** | AI • Machine Learning • Deep Learning
 
-I'm a BCA student passionate about building practical Machine Learning solutions and continuously learning through hands-on projects. My current focus is on Deep Learning, MLOps, and deploying production-ready ML applications.
+I'm a BCA student passionate about building intelligent systems using Machine Learning and AI. I enjoy solving real-world problems through data, experimenting with new technologies, and continuously learning by building practical projects.
 
 ## 🚀 About Me
 
-- 🤖 Building end-to-end Machine Learning projects
-- 🧠 Exploring Deep Learning with PyTorch
-- ⚙️ Learning MLflow, Weights & Biases (W&B), and MLOps
-- 🚀 Deploying ML models using FastAPI and Streamlit
-- 📈 Improving model performance through optimization and experimentation
-
-**📄 Resume:** [Download Here](https://github.com/ken-ipynb/resume)
+I'm currently exploring the complete Machine Learning lifecycle—from data preprocessing and model training to deployment, optimization, and MLOps. My goal is to build scalable, production-ready AI applications.
 
 ## 💻 Technical Skills
 
-**Python • C • SQL • NoSQL • NumPy • Pandas • Scikit-learn • Power BI • Tableau • Excel • Jupyter Notebook • Git • GitHub**
+**Python • C • PHP • NumPy • Pandas • Scikit-learn • SQL • NoSQL • Power BI • Tableau • Microsoft Excel • Jupyter Notebook • Git • GitHub**
 
 ## 📂 Featured Repositories
 
 ### 📊 Power BI Dashboard Projects
-Interactive dashboards for business intelligence, data visualization, and insights.
+Interactive dashboards for business intelligence, analytics, and data visualization.
 
-### 🏆 AI & ML Certifications
-My certifications, workshops, hackathons, and professional learning journey.
+🔗 https://github.com/ken-ipynb/powerbi-dashboard-projects
+
+---
+
+### 🏆 AI & ML Certifications & Achievements
+A collection of certifications, hackathons, workshops, and achievements documenting my AI and Machine Learning learning journey.
+
+🔗 https://github.com/ken-ipynb/certifications-and-achievements
+
+---
 
 ### 📄 Resume
-My latest resume, technical skills, and project experience.
+My latest resume, including education, technical skills, projects, certifications, and achievements.
 
-### 🧠 Learning Repository
-Notes, experiments, and implementations as I explore Machine Learning, Deep Learning, and MLOps.
+🔗 https://github.com/ken-ipynb/resume
+
+---
+
+### 🚀 More Projects Coming Soon
+I'm currently building repositories focused on:
+- Machine Learning Projects
+- Deep Learning with PyTorch
+- Model Deployment
+- MLOps & Experiment Tracking
 
 ## 📚 Currently Learning
 
 - Deep Learning with PyTorch
-- Model Deployment (FastAPI & Streamlit)
 - MLflow & Weights & Biases (W&B)
+- Model Deployment (FastAPI & Streamlit)
 - Model Optimization
 - MLOps
 
 ## 🎯 Goal
 
-To become a **Machine Learning Engineer** by building scalable, production-ready AI systems and contributing to impactful real-world projects.
+To become a **Machine Learning Engineer** by building and deploying production-ready ML systems while continuously improving my skills through real-world projects.
 
 ## 📫 Connect With Me
 
@@ -52,4 +62,4 @@ To become a **Machine Learning Engineer** by building scalable, production-ready
 
 ---
 
-💼 **Open to internships, open-source contributions, and collaboration in Machine Learning, AI, and Data Science.**
+💼 **Open to internships, open-source contributions, and collaboration opportunities in Machine Learning, AI, and Data Science.**

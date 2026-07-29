@@ -1,69 +1,55 @@
 # Hi, I'm Pradeep Pandey 👋
 
-I'm a **BCA student** passionate about **Artificial Intelligence, Machine Learning, Data Analytics, and Data Science**. I enjoy building practical AI solutions, analyzing data, and continuously improving my skills through hands-on projects.
+**Aspiring Machine Learning Engineer** | AI • Deep Learning • Data Analytics
+
+I'm a BCA student passionate about building practical Machine Learning solutions and continuously learning through hands-on projects. My current focus is on Deep Learning, MLOps, and deploying production-ready ML applications.
 
 ## 🚀 About Me
 
-I'm focused on developing end-to-end AI and Machine Learning projects, from data preprocessing and model training to deployment. Currently, I'm exploring **Deep Learning, MLOps, and model optimization** while building practical, real-world applications.
+- 🤖 Building end-to-end Machine Learning projects
+- 🧠 Exploring Deep Learning with PyTorch
+- ⚙️ Learning MLflow, Weights & Biases (W&B), and MLOps
+- 🚀 Deploying ML models using FastAPI and Streamlit
+- 📈 Improving model performance through optimization and experimentation
 
-**Resume:** [Download Here](https://github.com/ken-ipynb/resume)
+**📄 Resume:** [Download Here](https://github.com/ken-ipynb/resume)
 
-## 💻 Skills
+## 💻 Technical Skills
 
-**Programming Languages**
+**Python • C • SQL • NoSQL • NumPy • Pandas • Scikit-learn • Power BI • Tableau • Excel • Jupyter Notebook • Git • GitHub**
 
-* Python
-* C
-* PHP
+## 📂 Featured Repositories
 
-**Data Analysis & Visualization**
+### 📊 Power BI Dashboard Projects
+Interactive dashboards for business intelligence, data visualization, and insights.
 
-* Power BI
-* Tableau
-* Microsoft Excel
-* Jupyter Notebook
+### 🏆 AI & ML Certifications
+My certifications, workshops, hackathons, and professional learning journey.
 
-**Machine Learning & AI**
+### 📄 Resume
+My latest resume, technical skills, and project experience.
 
-* NumPy
-* Pandas
-* Scikit-learn
-* Seaborn
-* Neural Networks
-
-**Databases**
-
-* SQL
-* NoSQL
-
-## 📂 Projects
-
-* **[Power BI Dashboard Projects](https://github.com/ken-ipynb/powerbi-dashboard-projects)** – Interactive dashboards for data analysis and visualization.
-* **[Certifications & Achievements](https://github.com/ken-ipynb/certifications-and-achievements)** – My certifications, hackathons, and learning journey.
+### 🧠 Learning Repository
+Notes, experiments, and implementations as I explore Machine Learning, Deep Learning, and MLOps.
 
 ## 📚 Currently Learning
 
-* Machine Learning (Almost Complete)
-* Deep Learning with PyTorch
-* Model Deployment (FastAPI, Flask, Streamlit)
-* MLflow & Weights & Biases (W&B)
-* Model Optimization & MLOps
+- Deep Learning with PyTorch
+- Model Deployment (FastAPI & Streamlit)
+- MLflow & Weights & Biases (W&B)
+- Model Optimization
+- MLOps
 
-## 🏆 Certifications & Achievements
+## 🎯 Goal
 
-* Deloitte Virtual Experience Program – Data Analytics
-* AI & Machine Learning Workshop – Tryst 2025, IIT Delhi
-* Smart India Hackathon 2025 – Participant
-* Internal College Hackathon – 2nd Prize
+To become a **Machine Learning Engineer** by building scalable, production-ready AI systems and contributing to impactful real-world projects.
 
 ## 📫 Connect With Me
 
-* **Email:** [61005.pradeep.pandey@gmail.com](mailto:61005.pradeep.pandey@gmail.com)
-* **LinkedIn:** https://linkedin.com/in/pradeep-pandey-62a582325
-* **GitHub:** https://github.com/ken-ipynb
+- **Email:** 61005.pradeep.pandey@gmail.com
+- **LinkedIn:** https://linkedin.com/in/pradeep-pandey-62a582325
+- **GitHub:** https://github.com/ken-ipynb
 
 ---
 
-⭐ **Current Goal:** Build and deploy production-ready AI and Machine Learning solutions while expanding my expertise in Deep Learning and MLOps.
-
-💼 **Open to internships, open-source contributions, and collaboration opportunities in AI, Machine Learning, and Data Analytics.**
+💼 **Open to internships, open-source contributions, and collaboration in Machine Learning, AI, and Data Science.**

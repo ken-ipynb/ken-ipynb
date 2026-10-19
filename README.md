@@ -4,6 +4,14 @@
 
 I'm a BCA student passionate about building practical AI and Machine Learning solutions. I enjoy learning through hands-on projects, solving real-world problems with data, and sharing my journey on GitHub.
 
+## 💼 Experience
+
+### AI & Machine Learning Intern — InAmigos Foundation
+**October 17–30, 2026** | Remote
+
+- Contributing to AI and Machine Learning tasks.
+- Collaborating with team members and completing assigned responsibilities.
+
 ## 🚀 Currently Exploring
 
 * Deep Learning with PyTorch

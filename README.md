@@ -6,7 +6,7 @@ I'm a BCA student building my foundation in Machine Learning and Deep Learning t
 
 - 🔭 **Focus:** Machine Learning, Deep Learning & Recommendation Systems
 - 📊 **Additional Skills:** Data Analysis, SQL & Data Visualization
-- 💼 **Experience:** AI & Machine Learning Intern at InAmigos Foundation
+- 💼 **Experience:** AI & Machine Learning Intern at InAmigos Foundation and Nexvia Technology
 - 🌱 **Currently Learning:** Advanced PyTorch, Model Evaluation & ML Experiment Tracking
 
 ---
@@ -14,23 +14,39 @@ I'm a BCA student building my foundation in Machine Learning and Deep Learning t
 ## 🛠️ Tech Stack
 
 **Languages**
+
 `Python` `SQL` `C` `PHP`
 
 **Machine Learning & Deep Learning**
+
 `NumPy` `Pandas` `Scikit-learn` `PyTorch`
 
 **Data Analytics & Visualization**
+
 `Power BI` `Excel` `Tableau` `Matplotlib` `Seaborn`
 
 **Core Knowledge**
+
 `Linear Algebra` `Statistics` `Data Preprocessing` `ML Algorithms` `DBMS` `DSA`
 
 **Currently Exploring**
+
 `MLflow` `Weights & Biases`
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🤖 Nexvia Technology Internship Projects
+
+Completed two AI/ML projects involving practical machine learning, deep learning, recommendation systems, and model deployment infrastructure.
+
+- **AIML-02:** AI-Assisted Medical Imaging and Diagnosis System
+- **AIML-03:** Large-Scale Personalized Recommendation Engine
+- **Tools & Technologies:** Python, PyTorch, DVC, FAISS, Redis, Triton, Airflow and Docker.
+- **Data & Model Management:** DVC with Google Drive remote storage for datasets and model weights.
+
+**[Explore Nexvia Internship Projects →](https://github.com/ken-ipynb/Nexvia-Technology-Internship)**
 
 ### 🤖 Machine Learning Projects
 
@@ -47,6 +63,14 @@ Interactive dashboards focused on data analysis, visualization, and business int
 ---
 
 ## 💼 Experience
+
+**AI & Machine Learning Intern — Nexvia Technology**
+
+Worked on two AI/ML projects:
+- AI-Assisted Medical Imaging and Diagnosis System.
+- Large-Scale Personalized Recommendation Engine.
+
+Gained practical experience with deep learning, recommendation pipelines, DVC, model management, and deployment infrastructure.
 
 **AI & Machine Learning Intern — InAmigos Foundation**  
 *October 17–30, 2026 · Remote*

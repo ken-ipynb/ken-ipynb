@@ -75,7 +75,11 @@ Gained practical experience with deep learning, recommendation pipelines, DVC, m
 **AI & Machine Learning Intern — InAmigos Foundation**  
 *October 17–30, 2026 · Remote*
 
-Working in the AI and Machine Learning domain, collaborating with team members, and gaining practical experience through internship activities.
+Successfully completed an AI & Machine Learning Internship, gaining practical exposure to Artificial Intelligence and Machine Learning through internship activities.
+
+🏅 **Recognition:**
+- Certificate of Internship
+- Certificate of Appreciation
 
 ---
 
